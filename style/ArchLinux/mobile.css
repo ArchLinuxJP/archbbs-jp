@@ -1,0 +1,33 @@
+.pun { padding: 1.5% 2% !important; }
+
+#brdmain { margin-left: -8px; margin-right: -8px; }
+#brdfooter #qjump select { width: 100px; }
+
+#punviewtopic .blockpost dt, #punmoderate .blockpost dt { position: static !important; padding: 0 !important; width: auto !important; }
+
+.pun .blockpost h2{ padding-left: 8px !important; }
+.pun .postmsg{ overflow: visible !important; }
+.pun .blockpost .postright{ padding-left: 11px !important; padding-right: 6px !important; }
+.pun .blockpost .postleft, .pun .blockpost .postfootleft{ margin-left: 0 !important; width: auto !important; }
+.pun .blockpost .postbody, .pun .blockpost .postfoot{ margin-right: 0 !important; }
+.pun .blockpost .postleft, .pun .blockpost .postfootleft{ margin-left: 0 !important; width: auto !important; }
+.pun .blockpost .postfootright{ padding-right: 7px !important; }
+.pun .inform{ padding: 0 !important; overflow-x: auto !important; }
+
+#punpost .blockform h2, #punedit .blockform h2,.pun #quickpost h2, #pundelete .blockform h2 { width: 70% !important; }
+
+#archnavbaricon {
+    display: inline !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 45px !important;
+    float: right;
+}
+
+#archnavbarmenu {
+    display: none;
+}
+
+#archnavbar ul { float: none !important; display: inline !important; list-style: none !important; margin: 0 !important; padding: 0 !important; }
+#archnavbar ul li { display: inline; font-size: 14px !important; font-family: sans-serif !important; line-height: 38px !important; padding-left: 15px !important; float: none !important; }
+#archnavbarlist li:last-child { padding-right: 28px !important; }

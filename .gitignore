@@ -1,0 +1,12 @@
+/cache/*
+!/cache/index.html
+!/cache/.htaccess
+/include/user/*
+!/include/user/index.html
+/img/avatars/*
+!/img/avatars/index.html
+/config.php
+/.kateproject.d/
+/nbproject/
+/.idea/
+*~
