@@ -18,8 +18,8 @@ html > body #archnavbarlogo { background: url('archlogo.png') no-repeat !importa
 
 @media only screen and (min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-webkit-min-device-pixel-ratio: 1.5) {
     #archnavbarlogo {
-        background-image: url('archlogo.svg');
-        background-size: 100%;
+        background-image: url('archlogo.svg') !important;
+        background-size: 100% !important;
     }
 }
 
@@ -40,4 +40,3 @@ html > body #archnavbarlogo { background: url('archlogo.png') no-repeat !importa
 /* style the links */
 #archnavbar ul#archnavbarlist li a { color: #999; font-weight: bold !important; text-decoration: none !important; }
 #archnavbar ul li a:hover { color: white !important; text-decoration: underline !important; }
-
