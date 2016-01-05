@@ -12,9 +12,9 @@
 /* logo trickery -- GIF for IE6 and PNG for the rest */
 #archnavbarlogo { float: left !important; margin: 0 !important; padding: 0 !important; height: 40px !important; width: 180px !important; }
 /* IE6 doesn't support alpha PNGs so we serve it a GIF */
-#archnavbarlogo { background: url('archlogo.gif') no-repeat !important; }
+#archnavbarlogo { background: url('archlogo.gif') no-repeat; }
 /* and use a proper PNG for all other modern browsers */
-html > body #archnavbarlogo { background: url('archlogo.png') no-repeat !important; }
+html > body #archnavbarlogo { background: url('archlogo.png') no-repeat; }
 
 @media only screen and (min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-webkit-min-device-pixel-ratio: 1.5) {
     #archnavbarlogo {
