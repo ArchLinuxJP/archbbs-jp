@@ -8,8 +8,8 @@
                 <li id="anb-packages"><a href="https://www.archlinuxjp.org/packages/" title="Arch パッケージデータベース">パッケージ</a></li>
                 <li id="anb-forums" class="anb-selected"><a href="https://bbs.archlinuxjp.org/" title="コミュニティフォーラム">フォーラム</a></li>
                 <li id="anb-wiki"><a href="https://wiki.archlinuxjp.org/" title="コミュニティドキュメント">ArchWiki</a></li>
-                <li id="anb-bugs"><a href="https://archlinuxjp.github.io/" title="活動報告">ブログ</a></li>
-                <li id="anb-aur"><a href="https://archlinuxjp-slack.herokuapp.com/" title="チャット">Slack</a></li>
+                <li id="anb-bugs"><a href="https://slack.archlinuxjp.org/" title="チャット">Slack</a></li>
+                <li id="anb-aur"><a href="https://aur.archlinux.org/" title="Arch Linux User Repository">AUR</a></li>
                 <li id="anb-download"><a href="https://www.archlinuxjp.org/download/" title="Arch Linux を入手">ダウンロード</a></li>
 		</ul>
 	</div>
