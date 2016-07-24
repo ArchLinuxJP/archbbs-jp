@@ -8,6 +8,7 @@
 <link rel="stylesheet" media="screen" href="style/ArchLinux/archnavbar.css?v=2" />
 <link rel="stylesheet" media="only screen and (max-width:790px)" href="style/ArchLinux/mobile.css" />
 <link rel="shortcut icon" href="style/ArchLinux/favicon.ico" />
+<meta name="theme-color" content="#08C" />
 </head>
 
 <body>
