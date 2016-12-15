@@ -15,12 +15,14 @@
 #archnavbarlogo { background: url('archlogo.gif') no-repeat; }
 /* and use a proper PNG for all other modern browsers */
 html > body #archnavbarlogo { background: url('archlogo.png') no-repeat; }
+html > body #archnavbarlogo.xmas { background: url('archxmas.png') no-repeat; }
 
 /* icon for mobile */
 #archnavbaricon { display: none; margin: 0 !important; cursor: pointer; }
 
 @media only screen and (min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-webkit-min-device-pixel-ratio: 1.5) {
     #archnavbarlogo { background-image: url('archlogo.svg') !important; background-size: 100% !important; }
+    #archnavbarlogo.xmas { background-image: url('archxmas.svg') !important; }
     #archnavbaricon { background-image: url('menu.svg') !important; background-size: 100% !important; width: 30px !important; height: 30px !important; margin: 5px 3px 0 0 !important; opacity: 0.8; }
     #archnavbaricon img { display: none !important; }
 }

@@ -1,6 +1,6 @@
 <?php global $arch_home, $arch_navbar, $arch_navbar_selected; ?>
 <div id="archnavbar" class="anb-forum">
-	<div id="archnavbarlogo"><h1><a href="https://www.archlinuxjp.org/">Arch Linux</a></h1></div>
+	<?php $today = getdate();if($today["mon"]==12&&$today["mday"]>14){ ?><div id="archnavbarlogo" class="xmas"><?php }else{ ?><div id="archnavbarlogo"><?php } ?><h1><a href="https://www.archlinuxjp.org/">Arch Linux</a></h1></div>
 	<div id="archnavbaricon"><img src="https://www.archlinuxjp.org/images/menu.png"></div>
 	<div id="archnavbarmenu">
 		<ul id="archnavbarlist">
