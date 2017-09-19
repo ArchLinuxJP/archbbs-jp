@@ -2,8 +2,8 @@
 
 $mod_config = array (
   'mod_name' => 'Very Simple AntiBot Registration',
-  'version' => '1.5.14',
-  'release_date' => '2015-11-10',
+  'version' => '1.5.15',
+  'release_date' => '2016-06-17',
   'author' => 'Otomatic - Fluxbb.fr',
   'mod_installer' => 'OK',
   'fluxbb_versions' => 
@@ -21,6 +21,7 @@ $mod_config = array (
     10 => '1.5.7',
     11 => '1.5.8',
     12 => '1.5.9',
+    13 => '1.5.10',
   ),
   'date_install' => 0,
   'mod_status' => 0,
