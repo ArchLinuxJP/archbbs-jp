@@ -37,6 +37,6 @@
 <div class="end-box"></div>
 </div>
 
-<script type="text/javascript" src="https://www.archlinuxjp.org/javascripts/archweb.js"></script>
+<script type="text/javascript" src="https://www.archlinux.jp/javascripts/archweb.js"></script>
 </body>
 </html>
